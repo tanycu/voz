@@ -1,0 +1,6 @@
+{
+  "name": "VozGen - Texto a Audio IA",
+  "description": "Transforma cualquier texto en audio ultra-realista con voces de inteligencia artificial de Google Gemini y síntesis de voz en español.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
